@@ -33,11 +33,12 @@ print(f'O maior peso cadastrado foi de {maior} Kg, peso de',end=' ')
 for p in prin:
     if p[1] == maior:
         print(f'{p[0]}',end=' ')
+
 print()
 print(f'O menor peso foi de {menor} Kg, peso de',end=' ')
 for p in prin:
     if p[1] == menor:
         print(f'{p[0]}',end=' ')
 
-
+print('-='*20)
 
