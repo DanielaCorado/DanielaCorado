@@ -49,5 +49,4 @@ elif len(idademulheres) == 1:
     print('Somente uma mulher tem menos de 20 anos')
 else:
     print(f'No total tem-se {len(idademulheres)} mulheres com menos de 20 anos.')
-
 print('--'*20)
