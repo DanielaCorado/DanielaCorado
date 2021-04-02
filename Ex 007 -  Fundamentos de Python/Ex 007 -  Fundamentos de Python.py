@@ -2,7 +2,6 @@
 
 # Exercício para praticar habilidades com Pandas, analisando o DataFrame Ecommerce Purchases
 
-
 import pandas as pd
 
 def enunciado(msg):
