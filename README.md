@@ -6,5 +6,6 @@ Exercícios básicos de Python, englobando assuntos como:
 - Modularização
 - Condições 
 - Estruturas de repetição 
+- Listas, tuplas e dicionários
 - Bibliotecas : Pandas, Numpy, Seaborn, Matplotlib
 
