@@ -1,6 +1,6 @@
 # Fundamentos-de-Python
 
-Exercícios básicos de Python, englobando assuntos como: 
+Exercícios básicos usando a linguagem Python, englobando assuntos como: 
 
 - Funções
 - Modularização
