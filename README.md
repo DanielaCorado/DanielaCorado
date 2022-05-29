@@ -1,14 +1,13 @@
 # Oiê 😊 meu nome é Daniela Corado!
 ## Seja bem vindo ao meu perfil GitHub 👋
 
-Sou graduada em engenharia química pela Universidade de Brasília e atualmente estou em transição de carreira, migrando para o mercado de análise de dados, no qual busco oportunidades para começar a trabalhar. 📝
+Sou graduada em engenharia química pela Universidade de Brasília e atualmente trabalho como analista de dados 📊 
 
-Venho estudando por meio de plataformas educacionais disponíveis na internet como : Alura, Udemy, Curso em Video, dentre outras. Nesse momento estou me aprofundando na linguagem SQL usando MySQL Server da Oracle. 👩🏼‍💻
+Desde de 2019 venho estudando por meio de plataformas educacionais disponíveis na internet como : Alura, Udemy, Curso em Video, dentre outras. Com intuito de aprender cada vez mais sobre minha área de atuação. Nesse momento estou me aprofundando na linguagem SQL usando MySQL Server da Oracle 👩🏼‍💻
 
 Uma curiosidade sobre mim é que já fui premiada duas vezes nas Olimpíadas Brasileiras de Matemática das Escolas Públicas 🏅
 
 Para conhecer meus trabalhos acesse : [Portfólio](https://sites.google.com/view/portfoliodanielacorado) 💻 
-
 
 ## Contato:
 <div>
