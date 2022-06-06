@@ -3,7 +3,7 @@
 
 Sou graduada em engenharia química pela Universidade de Brasília e atualmente trabalho como analista de dados 📊 
 
-Desde de 2019 venho estudando por meio de plataformas educacionais disponíveis na internet como : Alura, Udemy, Curso em Video, dentre outras. Com intuito de aprender cada vez mais sobre minha área de atuação. Nesse momento estou me aprofundando na linguagem SQL usando MySQL Server da Oracle 👩🏼‍💻
+Desde de 2019 venho estudando por meio de plataformas educacionais disponíveis na internet como : Alura, Udemy, Curso em Video, dentre outras, com intuito de aprender cada vez mais sobre minha área de atuação. Nesse momento estou me aprofundando na linguagem SQL usando MySQL Server da Oracle 👩🏼‍💻
 
 Uma curiosidade sobre mim é que já fui premiada duas vezes nas Olimpíadas Brasileiras de Matemática das Escolas Públicas 🏅
 
