@@ -27,10 +27,4 @@ Para conhecer meus trabalhos acesse : [Portfólio](https://sites.google.com/view
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"width="40" height="40"/>
 </p>
 
-## Estatísticas GitHub                                                                           
-<div>
-<a href="https://github.com/DanielaCorado">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaCorado&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=DanielaCorado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
