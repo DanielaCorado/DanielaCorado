@@ -7,7 +7,10 @@ Desde de 2019 venho estudando por meio de plataformas educacionais disponíveis 
 
 Uma curiosidade sobre mim é que já fui premiada duas vezes nas Olimpíadas Brasileiras de Matemática das Escolas Públicas 🏅
 
-Para conhecer meus trabalhos acesse : [Portfólio](https://sites.google.com/view/portfoliodanielacorado) 💻 
+Para conhecer meus trabalhos acesse : 
+[Portfólio Site](https://sites.google.com/view/portfoliodanielacorado) 💻
+[Portfólio Github](https://github.com/DanielaCorado/Portfolio) 🔗
+
 
 ## Contato:
 <div>
